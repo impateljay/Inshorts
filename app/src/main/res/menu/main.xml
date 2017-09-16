@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/old_to_new"
+        android:title="@string/sort_old_to_new" />
+
+    <item android:id="@+id/new_to_old"
+        android:title="@string/sort_new_to_old" />
+</menu>
